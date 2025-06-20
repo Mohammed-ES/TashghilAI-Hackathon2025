@@ -65,13 +65,6 @@ Make sure you have Node.js (v18 or higher recommended) and pnpm installed on you
 -   [Node.js](https://nodejs.org/)
 -   [pnpm](https://pnpm.io/installation)
 
-### Clone the repository
-
-```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
-cd tashghil-ai # Or the name of your extracted folder, e.g., AI
-```
-
 ### Install dependencies
 
 ```bash
