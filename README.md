@@ -3,7 +3,6 @@
 🚧 Project Status
 This project is not completed. TashghilAI is an MVP (Minimum Viable Product) that I developed during the ENSET Hackathon 2025. It serves as a prototype and is not intended for production use.
 
-![TashghilAI Logo](https://via.placeholder.com/150x50?text=TashghilAI+Logo)
 
 ## 🚀 Project Overview
 
@@ -109,16 +108,4 @@ We welcome contributions to make TashghilAI even better! Here's how you can cont
 4.  Push to the branch (`git push origin feature/your-feature-name`).
 5.  Open a Pull Request.
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-Project Link: [YOUR_PROJECT_LINK_HERE]
-Email: contact@tashghilai.com
-
----
-
-**Note**: Replace `[YOUR_REPOSITORY_URL_HERE]` and `[YOUR_PROJECT_LINK_HERE]` with your actual repository and deployed project URLs.
 
