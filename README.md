@@ -1,7 +1,7 @@
 # TashghilAI
 
 🚧 Project Status
-This project is not completed. TashghilAI is an MVP (Minimum Viable Product) that I developed during the ENSET Hackathon 2025. It serves as a prototype and is not intended for production use.
+This project is not completed. TashghilAI is an MVP (Minimum Viable Product) that I developed during the Hackathon 2025. It serves as a prototype and is not intended for production use.
 
 
 ## 🚀 Project Overview
