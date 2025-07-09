@@ -18,37 +18,6 @@ TashghilAI is an AI-powered platform designed to revolutionize professional serv
 -   **Contact Us Page**: Easy communication channel for inquiries and support.
 -   **Modern & Responsive UI**: Built with React and Tailwind CSS for a seamless experience across all devices.
 
-## 📸 Screenshots
-
-Below are some screenshots of the application interface:
-
-### Home Page
-![Home Page](screenshots/home_page.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Missions Page
-![Missions Page](screenshots/missions_page.png)
-
-### Interview Simulator
-![Interview Simulator](screenshots/interview_simulator.png)
-
-### Profile Page
-![Profile Page](screenshots/profile_page.png)
-
-### Tasks Page
-![Tasks Page](screenshots/tasks_page.png)
-
-### Login Page
-![Login Page](screenshots/login_page.png)
-
-### Sign Up Page
-![Sign Up Page](screenshots/signup_page.png)
-
-### Settings Page
-![Settings Page](screenshots/settings_page.png)
-
 ## 🛠️ Technologies Used
 
 -   **Frontend**: React.js, React Router, Tailwind CSS, Shadcn/UI, Lucide React
