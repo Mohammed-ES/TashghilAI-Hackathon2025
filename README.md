@@ -126,11 +126,6 @@ We welcome all contributions 💙!
 - 📤 Resume parser and auto-scoring system.
 - 🔄 GPT & Gemini dual-agent selection.
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
