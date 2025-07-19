@@ -1,124 +1,148 @@
 
+<h1 align="center">
+  <img src="https://img.shields.io/badge/TashghilAI-Prototype-blueviolet?style=for-the-badge&logo=github" />
+  <br/>
+  🚀 TashghilAI
+</h1>
 
-# TashghilAI
-
-![Status](https://img.shields.io/badge/status-MVP-orange) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
----
-
-## � Introduction
-
-> **Bienvenue sur TashghilAI !**
->
-> _Une plateforme qui réinvente la gestion professionnelle grâce à l'intelligence artificielle, l'automatisation et une expérience utilisateur animée et moderne._
+<p align="center">
+  <b>AI-powered Platform for Professional Services Management</b><br/>
+  <i>Streamline your work. Automate your future. Enhance your skills.</i>
+</p>
 
 ---
 
-## 🚧 Project Status
+## 📌 Project Status
 
-> ⚡ TashghilAI est un MVP développé lors du Hackathon 2025. Ce projet est un prototype, non destiné à la production.
-
----
-
+🚧 **Work In Progress**  
+TashghilAI is a <strong>Minimum Viable Product (MVP)</strong> developed during **Hackathon 2025**. It is a prototype designed to demonstrate key features and is **not intended for production use**.
 
 ---
 
-## 🚀 Project Overview
+## 🎯 Overview
 
-TashghilAI is an intelligent platform designed to transform professional services management through artificial intelligence. It automates repetitive tasks, optimizes business processes, and provides advanced analytics to boost productivity.
+TashghilAI is a modern AI-driven platform built to **redefine how professionals and organizations handle missions, tasks, and collaboration**. The system automates repetitive workflows, provides actionable insights, and offers an intuitive dashboard with smart features.
 
-The solution offers complete management of missions, tasks, and user profiles, while integrating innovative features such as an AI-powered interview simulator. The goal is to centralize and streamline work organization, while providing a modern, animated, and intuitive user experience.
-
----
-
-
-## ✨ Animated Features
-
-- **🤖 Smart mission and task management**: Automate the creation, assignment, and tracking of missions and tasks. Visualize progress, priorities, and deadlines on an interactive and animated dashboard.
-- **📊 Dynamic dashboard**: Get a synthetic view of your projects, missions, and tasks, with performance indicators and animated charts to drive your activity.
-- **🧑‍💼 Advanced user profiles**: Each user has a complete profile (skills, LinkedIn/GitHub integration, CV, voice pitch), promoting talent recognition and collaboration.
-- **🗣️ AI interview simulator**: Interactive module that simulates questions and provides personalized feedback, with animations for a playful experience.
-- **🎨 Modern & responsive interface**: Built with React and Tailwind CSS, the app features animations, transitions, and visual effects for a smooth experience on all devices.
-- **🔒 Security & privacy**: Data is protected by best practices and fine-grained user access management.
-- **📥 Export & backup**: Export your data, save your notes and missions, and ensure the durability of your work.
+🎥 _The future of digital productivity, powered by AI._
 
 ---
 
+## ✨ Key Features
 
-## 🛠️ Technologies Used
-
-- **React.js**: Modern JavaScript framework for dynamic and animated interfaces.
-- **React Router**: Smooth navigation and transitions between pages.
-- **Tailwind CSS**: Fast, modern, and responsive design with CSS animations.
-- **Shadcn/UI & Lucide React**: Animated components and icons to enrich the interface.
-- **pnpm**: Fast and efficient package manager.
-
----
-
-
-## 🔄 User Workflow
-
-1. **Sign up and create your profile**: Enter your skills, professional links, and record a voice pitch.
-2. **Manage missions and tasks**: Create, assign, and track missions with animated progress visualization.
-3. **Use the AI simulator**: Practice interviews with generated questions and interactive feedback.
-4. **Consult the dashboard**: Monitor your overall activity, indicators, and animated charts.
-5. **Export and backup**: Export your data and save your notes and missions.
+| 💡 | Feature |
+|----|---------|
+| 🤖 | **AI-Enhanced Service Management** — Automate repetitive tasks, optimize time, and reduce error. |
+| 📊 | **Dynamic Dashboard** — Instantly view KPIs, task load, and project progression. |
+| 🧩 | **Mission & Task System** — Create, assign, and track progress seamlessly. |
+| 🧠 | **AI Interview Simulator** — Prepare for real-world interviews with live, AI-generated feedback. |
+| 🧾 | **Advanced User Profiles** — Showcase portfolios, skills, and upload CVs with GitHub/LinkedIn sync. |
+| 💬 | **Contact System** — For questions, support, and partnership inquiries. |
+| 🌐 | **Fully Responsive UI** — Works across desktop, tablet, and mobile using **React + Tailwind**. |
 
 ---
 
+## 🧰 Tech Stack
 
-## ⚙️ Installation & Getting Started
+| Layer       | Technology                                |
+|-------------|--------------------------------------------|
+| 🖥️ Frontend | React.js, React Router, Tailwind CSS        |
+| 🧩 UI Kit    | Shadcn/UI, Lucide React                    |
+| 📦 Manager  | pnpm                                       |
+| 📊 Charts   | Chart.js, Framer Motion (optional for UI)  |
+| 🧠 AI Core  | Gemini 2.0 Flash API *(for Interview Sim)*  |
 
-### Prerequisites
+---
 
-- Node.js (v18 or higher recommended): [Download Node.js](https://nodejs.org/)
-- pnpm: [Install pnpm](https://pnpm.io/installation)
+## ⚙️ Installation & Setup
 
-### Install dependencies
+### 📥 Requirements
+
+- [Node.js v18+](https://nodejs.org/)
+- [pnpm package manager](https://pnpm.io/installation)
+
+---
+
+### 📦 Install Dependencies
 
 ```bash
 pnpm install
 ```
 
-### Start the development server
+---
+
+### 🔧 Run Development Server
 
 ```bash
 pnpm run dev
 ```
 
-Open your browser at:
+Then open your browser at:
 
 [http://localhost:5174](http://localhost:5174)
 
----
+> 🧠 _The app will automatically reload when you edit source files._
 
+---
 
 ## 🚀 Deployment
 
-To build the project for production:
+To deploy the app in production mode:
 
 ```bash
 pnpm run build
 ```
 
-The optimized files will be created in the `dist/` folder. You can then deploy these static files to any web server (Netlify, Vercel, Nginx, Apache, etc.).
+This will generate the production files inside the `dist/` folder.  
+You can then deploy them to:
+
+- Netlify
+- Vercel
+- Firebase Hosting
+- Nginx / Apache server
+
 
 ---
-
 
 ## 🤝 Contributing
 
-TashghilAI welcomes contributions from everyone to improve the platform!
+We welcome all contributions 💙!
 
-1. Fork the repository
-2. Create a dedicated branch (`git checkout -b feature/your-feature-name`)
-3. Develop your improvements and commit them (`git commit -m 'Add new feature'`)
-4. Push the branch (`git push origin feature/your-feature-name`)
-5. Open a Pull Request to propose your changes
+```bash
+# Step-by-step:
+1. Fork this repo
+2. Create a new branch: git checkout -b feature/your-feature-name
+3. Commit your changes: git commit -m "✨ Add feature"
+4. Push to GitHub: git push origin feature/your-feature-name
+5. Create a Pull Request 🚀
+```
 
 ---
 
+## 🧪 Future Features
 
-> _This project was designed to explore the potential of AI in professional management. Feel free to read the code, suggest ideas, and participate in the evolution of TashghilAI!_
+- 📽️ AI-based feedback recorder (voice-to-text + sentiment).
+- 📈 Integration with Notion or Trello.
+- 🛡️ Role-based access control (Admin/Recruiter/Candidate).
+- 📤 Resume parser and auto-scoring system.
+- 🔄 GPT & Gemini dual-agent selection.
 
+---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📫 Contact
+
+For collaborations, issues, or suggestions:
+
+- 📧 Email: [mohammedelouazzani.dev@gmail.com](mailto:mohammedelouazzani.dev@gmail.com)
+- 🧑‍💻 GitHub: [@Mohammed-ES](https://github.com/Mohammed-ES)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Empower+your+future+with+AI.;Automate.+Simulate.+Grow.;TashghilAI+is+just+the+start." alt="Typing SVG" />
+</p>
