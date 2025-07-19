@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/TashghilAI-Prototype-blueviolet?style=for-the-badge&logo=github" />
   <br/>
-  🚀 TashghilAI
+ TashghilAI
 </h1>
 
 <p align="center">
